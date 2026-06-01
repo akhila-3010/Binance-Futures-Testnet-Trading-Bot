@@ -16,6 +16,39 @@ A simplified Python trading bot for Binance Futures Testnet (USDT-M) that allows
 
 ---
 
+## Binance Testnet API Credentials
+
+To use the trading bot, you must generate Binance Futures Testnet API credentials.
+
+### Steps to Generate API Keys
+
+1. Visit Binance Futures Testnet:
+   https://testnet.binancefuture.com
+
+2. Sign in or create a Testnet account.
+
+3. Navigate to **API Management**.
+
+4. Create a new API Key and Secret Key.
+
+5. Copy and securely store the generated credentials.
+
+### Using API Credentials
+
+When running the application, enter:
+
+* **API Key** → Your Binance Futures Testnet API Key
+* **API Secret** → Your Binance Futures Testnet Secret Key
+
+The application uses these credentials to authenticate requests and place orders on the Binance Futures Testnet environment.
+
+### Security Note
+
+* Never commit API Keys or Secret Keys to GitHub.
+* Never share your credentials publicly.
+* Store credentials securely using environment variables or local configuration files.
+* Regenerate your API credentials immediately if they are accidentally exposed.
+
 ## Project Structure
 
 ```text
