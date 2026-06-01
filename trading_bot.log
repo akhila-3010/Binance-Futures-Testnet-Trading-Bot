@@ -1,0 +1,16 @@
+2026-06-01 12:17:08,416 INFO Time synchronized with Binance server.
+2026-06-01 12:17:09,123 INFO Fetched 712 symbols.
+2026-06-01 12:17:09,253 ERROR Error fetching USDT balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2026-06-01 12:17:17,686 INFO Time synchronized with Binance server.
+2026-06-01 12:17:18,504 INFO Fetched 712 symbols.
+2026-06-01 12:17:18,628 ERROR Error fetching USDT balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2026-06-01 12:17:18,755 INFO Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET', 'recvWindow': 5000}
+2026-06-01 12:17:18,884 ERROR Order API error: Invalid API-key, IP, or permissions for action
+2026-06-01 12:18:38,498 INFO Time synchronized with Binance server.
+2026-06-01 12:18:38,994 INFO Fetched 712 symbols.
+2026-06-01 12:18:39,115 ERROR Error fetching USDT balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2026-06-01 12:18:42,880 INFO Time synchronized with Binance server.
+2026-06-01 12:18:43,263 INFO Fetched 712 symbols.
+2026-06-01 12:18:43,383 ERROR Error fetching USDT balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2026-06-01 12:18:43,597 INFO Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET', 'recvWindow': 5000}
+2026-06-01 12:18:43,728 ERROR Order API error: Invalid API-key, IP, or permissions for action
